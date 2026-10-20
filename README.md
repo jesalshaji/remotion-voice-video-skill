@@ -86,3 +86,8 @@ You get `out/<name>-final.mp4`, and the raw render is kept next to it.
 | --- | --- |
 | [SKILL.md](SKILL.md) | The skill: setup, workflow, rules and troubleshooting |
 | README.md | This page |
+| [LICENSE](LICENSE) | MIT license |
+
+## License
+
+MIT. You can use, change and share this skill, including for commercial work, as long as you keep the copyright notice. See [LICENSE](LICENSE).
